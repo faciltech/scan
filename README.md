@@ -18,8 +18,8 @@ Muitas vezes precisamos de um script para um determinado serviço, durante a bus
     Navegue dentro de seu sistema, escolha o local e execute no terminal o comando abaixo.
 
     ``` 
-        git clone https://github.com/faciltech/search-nmap.git
-        Cloning into 'search-nmap'...
+        git clone https://github.com/faciltech/scan.git
+        Cloning into 'scan'...
         remote: Enumerating objects: 10, done.
         remote: Counting objects: 100% (10/10), done.
         remote: Compressing objects: 100% (10/10), done.
@@ -30,12 +30,12 @@ Muitas vezes precisamos de um script para um determinado serviço, durante a bus
 
 2.  **Conceda permissão para o arquivo!**
 ```
-chmod +x search-nmap.sh
+chmod +x scan.sh
 ```
 OBS: Uma outra boa dica é mover o arquivo do script para o diretório /usr/bin , dessa forma podemos utilizar de forma direta no terminal.
 ## 🧐 Como usar o script?
 
-Você irá digitar ```./search-nmap.sh``` 
+Você irá digitar ```./scan.sh``` 
   
 <img alt="faciltech" src="20230118_194341.gif"/>
 ## 🎓 Linguagem

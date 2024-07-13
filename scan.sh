@@ -2,7 +2,7 @@
 echo "################################################################"
 echo "## Autor: Eduardo Amaral - eduardo4maral@protonmail.com       ##"
 echo "## You Tube : https://www.youtube.com/faciltech               ##"
-echo "## github   : https://github.com/Amaroca                      ##"
+echo "## github   : https://github.com/faciltech                    ##"
 echo "## Facebook : https://www.facebook.com/faciltech123           ##"
 echo "## Linkedin : https://www.linkedin.com/in/eduardo-a-02194451/ ##"
 echo "################################################################"

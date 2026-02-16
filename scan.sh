@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "################################################################"
 echo "## Autor: Eduardo Amaral - eduardo4maral@protonmail.com       ##"
-echo "## You Tube : https://www.youtube.com/@faciltech               ##"
+echo "## You Tube : https://www.youtube.com/@faciltech              ##"
 echo "## github   : https://github.com/faciltech                    ##"
 echo "## Site : https://www.eduardo-amaral.com                      ##"
 echo "## Linkedin : https://www.linkedin.com/in/eduardo4maral/      ##"
